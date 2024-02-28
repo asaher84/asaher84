@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Aher
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on college projects in Ml
 - 📫 How to reach me adityak30524@gmail.com
 
 <!---
