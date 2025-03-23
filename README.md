@@ -1,7 +1,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=asaher84)
 - 👋 Hi, I’m Aditya Aher
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Deep Learning and Generative Ai.
 - 📫 How to reach me adiaher84@gmail.com
 
 <!---
